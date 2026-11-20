@@ -1,0 +1,25 @@
+=== EIGENE MUSIK & SOUNDEFFEKTE (OPTIONAL) ===
+
+Wenn dieser Ordner leer ist, nutzt das Spiel automatisch die eingebaute Musik und Soundeffekte.
+Sobald du eine oder mehrere der folgenden MP3-Dateien genau mit diesem Namen hier ablegst,
+verwendet das Spiel beim naechsten Laden automatisch deine echten Sound-Dateien!
+
+Dateinamen:
+- musik_menue.mp3    -> Hintergrundmusik im Startbildschirm & in der Lobby (laeuft als Loop)
+- schritt.mp3        -> Einzelner Laufschritt auf Tartanbahn (wird exakt bei jedem Fussauftritt abgespielt)
+- schwimmen.mp3      -> Einzelner Kraul-Wasserzug / Plaetschern
+- startschuss.mp3    -> Startpistole bei Lauf-Disziplinen
+- sprung.mp3         -> Absprung (Huerden, Weitsprung, Dreisprung)
+- sand.mp3           -> Landung in der Sandgrube / auf dem Rasen
+- wurf.mp3           -> Wurf-Luftzug (Speerwerfen, Kugelstossen, Stabhochsprung)
+- stumble.mp3        -> Umstossen einer Huerde oder Sprunglatte
+- foul.mp3           -> Ungueltiger Versuch / Uebertreten
+- schuss.mp3         -> Schrotflinte beim Tontaubenschiessen
+- tontaube.mp3       -> Zerplatzende Tontaube
+- hantel.mp3         -> Metallisches Hantel-Klacken beim Gewichtheben
+- jubel.mp3          -> Kurzer Stadion-Publikumsjubel
+- fanfare.mp3        -> Siegerehrungs-Fanfare auf dem Podest
+
+Tipp fuer Schritte & Schwimmzuege:
+Am besten kurze Einzelsounds (0,2 bis 0,6 Sekunden) ohne Stille am Anfang verwenden.
+Das Spiel variiert Tonhoehe und Lautstaerke bei jedem Schritt automatisch leicht fuer einen natuerlichen Klang!
